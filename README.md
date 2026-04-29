@@ -6,9 +6,9 @@
 
 ## What is Tiny Tapeout?
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
+The Wowki Template was copied for demo purposes
 
-To learn more and get started, visit https://tinytapeout.com.
+( う-´)づ︻╦̵̵̿╤── \(˚☐˚”)/ - Hi
 
 ## Set up your Verilog project
 
